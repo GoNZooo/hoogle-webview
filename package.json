@@ -1,6 +1,7 @@
 {
 	"name": "hoogle-webview",
 	"displayName": "hoogle-webview",
+	"publisher": "GoNZooo",
 	"description": "A webview extension that opens Hoogle alongside your code",
 	"version": "0.0.1",
 	"engines": {
