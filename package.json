@@ -2,10 +2,13 @@
 	"name": "hoogle-webview",
 	"displayName": "hoogle-webview",
 	"publisher": "GoNZooo",
+	"repository": {
+		"url": "https://github.com/GoNZooo/hoogle-webview"
+	},
 	"description": "A webview extension that opens Hoogle alongside your code",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.63.2"
+		"vscode": "^1.66.2"
 	},
 	"categories": [
 		"Other"
