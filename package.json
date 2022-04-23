@@ -26,9 +26,9 @@
 		],
 		"configuration": [
 			{
-				"title": "Hoogle URL",
+				"title": "Hoogle Webview",
 				"properties": {
-					"hoogleUrl": {
+					"hoogle-webview.hoogleUrl": {
 						"type": "string",
 						"default": "https://hoogle.haskell.org/",
 						"description": "The URL of the Hoogle server"
