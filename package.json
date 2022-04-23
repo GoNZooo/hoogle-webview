@@ -6,7 +6,7 @@
 		"url": "https://github.com/GoNZooo/hoogle-webview"
 	},
 	"description": "A webview extension that opens Hoogle alongside your code",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.66.2"
 	},
